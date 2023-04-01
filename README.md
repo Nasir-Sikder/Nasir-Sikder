@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/11/1a/21/111a218fa1455232512f17ee86d98eff.gif)]
+[MasterHead](https://i.pinimg.com/originals/11/1a/21/111a218fa1455232512f17ee86d98eff.gif)
 <h1 align="center">Hi 👋, I'm Nasir-Sikder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align = "right" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Girl in a jacket" width="500" height="300">
