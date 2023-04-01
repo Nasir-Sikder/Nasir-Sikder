@@ -1,9 +1,6 @@
-[![MasterHead](https://media.tenor.com/mugZdxy-l5EAAAAM/welcome-gif.gif)]
 <h1 align="center">Hi 👋, I'm Nasir-Sikder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Girl in a jacket" width="400">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasir-sikder" alt="nasir-sikder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tanjirl67244810" target="blank"><img src="https://img.shields.io/twitter/follow/tanjirl67244810?logo=twitter&style=for-the-badge" alt="tanjirl67244810" /></a> </p>
 
