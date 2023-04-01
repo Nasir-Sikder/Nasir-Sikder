@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/business-training-concept-3d-isometric-web-banner-people-listen-speaker-seminar-online-coaching_9209-8909.jpg?w=800)]
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Nasir-Sikder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align = "right" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Girl in a jacket" width="500" height="300">
